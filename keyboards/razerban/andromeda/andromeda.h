@@ -18,7 +18,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define XXX KC_NO
 
-#define LAYOUT_all( \
+#define LAYOUT( \
     K0A,      K0C, K0D, K0E, K0F, K0G, K0H, K0I, K0J, K0K, K0L, K0M, K0N,          K0O, K0P, K0Q, \
     K1A, K1B, K1C, K1D, K1E, K1F, K1G, K1H, K1I, K1J, K1K, K1L, K1M, K1N, K3O,     K1O, K1P, K1Q, \
     K2A, K2B, K2C, K2D, K2E, K2F, K2G, K2H, K2I, K2J, K2K, K2L, K2M, K2N,          K2O, K2P, K2Q, \
